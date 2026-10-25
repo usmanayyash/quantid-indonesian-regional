@@ -1,0 +1,1678 @@
+{
+ "acc": {
+  "gemma1b_bf16": {
+   "indonesian": 0.7825,
+   "english": 0.775,
+   "javanese": 0.685,
+   "sundanese": 0.5975,
+   "balinese": 0.52,
+   "minangkabau": 0.495,
+   "banjarese": 0.535,
+   "madurese": 0.5125,
+   "buginese": 0.3575,
+   "acehnese": 0.42,
+   "ngaju": 0.4125,
+   "toba_batak": 0.3925
+  },
+  "gemma1b_int8": {
+   "indonesian": 0.775,
+   "english": 0.7775,
+   "javanese": 0.67,
+   "sundanese": 0.5825,
+   "balinese": 0.53,
+   "minangkabau": 0.505,
+   "banjarese": 0.5525,
+   "madurese": 0.505,
+   "buginese": 0.365,
+   "acehnese": 0.425,
+   "ngaju": 0.4275,
+   "toba_batak": 0.4025
+  },
+  "gemma1b_nf4": {
+   "indonesian": 0.7825,
+   "english": 0.8,
+   "javanese": 0.61,
+   "sundanese": 0.5525,
+   "balinese": 0.465,
+   "minangkabau": 0.49,
+   "banjarese": 0.4975,
+   "madurese": 0.435,
+   "buginese": 0.38,
+   "acehnese": 0.4,
+   "ngaju": 0.4025,
+   "toba_batak": 0.39
+  },
+  "qwen1.5b_bf16": {
+   "indonesian": 0.745,
+   "english": 0.77,
+   "javanese": 0.6675,
+   "sundanese": 0.6125,
+   "balinese": 0.6125,
+   "minangkabau": 0.6375,
+   "banjarese": 0.66,
+   "madurese": 0.6425,
+   "buginese": 0.5075,
+   "acehnese": 0.5875,
+   "ngaju": 0.5925,
+   "toba_batak": 0.48
+  },
+  "qwen1.5b_int8": {
+   "indonesian": 0.7425,
+   "english": 0.77,
+   "javanese": 0.675,
+   "sundanese": 0.5975,
+   "balinese": 0.6125,
+   "minangkabau": 0.63,
+   "banjarese": 0.67,
+   "madurese": 0.6375,
+   "buginese": 0.495,
+   "acehnese": 0.6,
+   "ngaju": 0.6,
+   "toba_batak": 0.4875
+  },
+  "qwen1.5b_nf4": {
+   "indonesian": 0.7025,
+   "english": 0.7275,
+   "javanese": 0.5875,
+   "sundanese": 0.56,
+   "balinese": 0.5125,
+   "minangkabau": 0.6225,
+   "banjarese": 0.58,
+   "madurese": 0.56,
+   "buginese": 0.4475,
+   "acehnese": 0.505,
+   "ngaju": 0.5675,
+   "toba_batak": 0.4525
+  },
+  "qwen3b_bf16": {
+   "indonesian": 0.8,
+   "english": 0.855,
+   "javanese": 0.695,
+   "sundanese": 0.64,
+   "balinese": 0.4775,
+   "minangkabau": 0.625,
+   "banjarese": 0.5525,
+   "madurese": 0.4975,
+   "buginese": 0.3375,
+   "acehnese": 0.47,
+   "ngaju": 0.405,
+   "toba_batak": 0.355
+  },
+  "qwen3b_int8": {
+   "indonesian": 0.8175,
+   "english": 0.8625,
+   "javanese": 0.71,
+   "sundanese": 0.59,
+   "balinese": 0.48,
+   "minangkabau": 0.62,
+   "banjarese": 0.535,
+   "madurese": 0.5,
+   "buginese": 0.375,
+   "acehnese": 0.4825,
+   "ngaju": 0.41,
+   "toba_batak": 0.385
+  },
+  "qwen3b_nf4": {
+   "indonesian": 0.825,
+   "english": 0.82,
+   "javanese": 0.68,
+   "sundanese": 0.6475,
+   "balinese": 0.545,
+   "minangkabau": 0.6925,
+   "banjarese": 0.63,
+   "madurese": 0.6025,
+   "buginese": 0.465,
+   "acehnese": 0.53,
+   "ngaju": 0.4825,
+   "toba_batak": 0.43
+  },
+  "qwen7b_nf4": {
+   "indonesian": 0.86,
+   "english": 0.8275,
+   "javanese": 0.755,
+   "sundanese": 0.6525,
+   "balinese": 0.61,
+   "minangkabau": 0.7025,
+   "banjarese": 0.71,
+   "madurese": 0.6325,
+   "buginese": 0.3175,
+   "acehnese": 0.5725,
+   "ngaju": 0.5425,
+   "toba_batak": 0.4175
+  }
+ },
+ "f1": {
+  "gemma1b_bf16": {
+   "indonesian": 0.698272893560988,
+   "english": 0.7106750187554493,
+   "javanese": 0.6294754245064804,
+   "sundanese": 0.5524973041425405,
+   "balinese": 0.48302170746090994,
+   "minangkabau": 0.41956174930135287,
+   "banjarese": 0.4749022754890258,
+   "madurese": 0.4792296630630733,
+   "buginese": 0.2977932279554841,
+   "acehnese": 0.3703981425018131,
+   "ngaju": 0.34620162753812017,
+   "toba_batak": 0.32584811019625054
+  },
+  "gemma1b_int8": {
+   "indonesian": 0.6925512879566312,
+   "english": 0.7131397164561527,
+   "javanese": 0.6183540431584732,
+   "sundanese": 0.5344613649182177,
+   "balinese": 0.4967313635151829,
+   "minangkabau": 0.44552192621232106,
+   "banjarese": 0.5018968456947998,
+   "madurese": 0.4802114310358245,
+   "buginese": 0.3268928470130456,
+   "acehnese": 0.3909114940042775,
+   "ngaju": 0.3773290262650881,
+   "toba_batak": 0.3539146959544969
+  },
+  "gemma1b_nf4": {
+   "indonesian": 0.7316861787221591,
+   "english": 0.7591667521930728,
+   "javanese": 0.5645808359306321,
+   "sundanese": 0.5119365405588431,
+   "balinese": 0.4205103664079435,
+   "minangkabau": 0.4170520837187504,
+   "banjarese": 0.44663784373060916,
+   "madurese": 0.376406713796867,
+   "buginese": 0.3157897389528478,
+   "acehnese": 0.34330959108349673,
+   "ngaju": 0.34146324844561793,
+   "toba_batak": 0.3153652390992126
+  },
+  "qwen1.5b_bf16": {
+   "indonesian": 0.6288233136685707,
+   "english": 0.6831379911103029,
+   "javanese": 0.5252171308775083,
+   "sundanese": 0.47346042953997264,
+   "balinese": 0.5153300261816178,
+   "minangkabau": 0.51493130217319,
+   "banjarese": 0.5609623985475617,
+   "madurese": 0.5105860880903375,
+   "buginese": 0.42143016676593215,
+   "acehnese": 0.48310448709722764,
+   "ngaju": 0.478473331943769,
+   "toba_batak": 0.3902117070341369
+  },
+  "qwen1.5b_int8": {
+   "indonesian": 0.6272871849503875,
+   "english": 0.6831438669059814,
+   "javanese": 0.545980777213654,
+   "sundanese": 0.4729643445239775,
+   "balinese": 0.5101879433697616,
+   "minangkabau": 0.5111396840599634,
+   "banjarese": 0.5651719674195724,
+   "madurese": 0.5077627734344152,
+   "buginese": 0.41197862257497714,
+   "acehnese": 0.5056516958268958,
+   "ngaju": 0.4888752667526797,
+   "toba_batak": 0.39634872640645047
+  },
+  "qwen1.5b_nf4": {
+   "indonesian": 0.5904128710244293,
+   "english": 0.6096237076901289,
+   "javanese": 0.4698269981561829,
+   "sundanese": 0.4495706832115984,
+   "balinese": 0.4064750388211584,
+   "minangkabau": 0.5283528372360861,
+   "banjarese": 0.479804995504739,
+   "madurese": 0.455217671152874,
+   "buginese": 0.3465716573916258,
+   "acehnese": 0.4039848377667468,
+   "ngaju": 0.4560539028731248,
+   "toba_batak": 0.35289078201161567
+  },
+  "qwen3b_bf16": {
+   "indonesian": 0.7856663847138178,
+   "english": 0.8391676188804894,
+   "javanese": 0.67462928640095,
+   "sundanese": 0.6168339612609887,
+   "balinese": 0.4706777137353429,
+   "minangkabau": 0.6045875778290981,
+   "banjarese": 0.5355558331367133,
+   "madurese": 0.46606420123549414,
+   "buginese": 0.29105981513553353,
+   "acehnese": 0.46281437860385227,
+   "ngaju": 0.3588276180951296,
+   "toba_batak": 0.3079705218122607
+  },
+  "qwen3b_int8": {
+   "indonesian": 0.7971102255969377,
+   "english": 0.8397874426402594,
+   "javanese": 0.6632039459659553,
+   "sundanese": 0.5444559986759475,
+   "balinese": 0.44612497110688715,
+   "minangkabau": 0.5771322403227791,
+   "banjarese": 0.4975070762990835,
+   "madurese": 0.4348251235938714,
+   "buginese": 0.25840625754788843,
+   "acehnese": 0.4250429051539135,
+   "ngaju": 0.3309191824435727,
+   "toba_batak": 0.31649885179296944
+  },
+  "qwen3b_nf4": {
+   "indonesian": 0.7948927246046553,
+   "english": 0.7824720893531968,
+   "javanese": 0.6083513578466715,
+   "sundanese": 0.5749612774882191,
+   "balinese": 0.5148278053618899,
+   "minangkabau": 0.6350046108132108,
+   "banjarese": 0.5841923931275217,
+   "madurese": 0.5434153850481703,
+   "buginese": 0.4181899762469626,
+   "acehnese": 0.4847375090425276,
+   "ngaju": 0.43718714309022677,
+   "toba_batak": 0.39030073311394453
+  },
+  "qwen7b_nf4": {
+   "indonesian": 0.8375510215071134,
+   "english": 0.8035774441878631,
+   "javanese": 0.7338375651187437,
+   "sundanese": 0.6505138790557817,
+   "balinese": 0.5945564347100195,
+   "minangkabau": 0.6905018085272941,
+   "banjarese": 0.6991386843357773,
+   "madurese": 0.6271123328665954,
+   "buginese": 0.27958998622397885,
+   "acehnese": 0.5551738403724714,
+   "ngaju": 0.5434831614610666,
+   "toba_batak": 0.41093434210923846
+  }
+ },
+ "tax": {},
+ "ty_en": {
+  "gemma1b_bf16": {
+   "f1": 0.6334043724428028,
+   "em": 0.46136363636363636,
+   "n": 440
+  },
+  "gemma1b_int8": {
+   "f1": 0.6314279341795973,
+   "em": 0.45454545454545453,
+   "n": 440
+  },
+  "gemma1b_nf4": {
+   "f1": 0.6035607653504715,
+   "em": 0.38636363636363635,
+   "n": 440
+  },
+  "qwen1.5b_bf16": {
+   "f1": 0.467494896304721,
+   "em": 0.18181818181818182,
+   "n": 440
+  },
+  "qwen1.5b_int8": {
+   "f1": 0.47537653838649574,
+   "em": 0.19090909090909092,
+   "n": 440
+  },
+  "qwen1.5b_nf4": {
+   "f1": 0.5170876023772194,
+   "em": 0.22954545454545455,
+   "n": 440
+  },
+  "qwen3b_bf16": {
+   "f1": 0.6348762974087393,
+   "em": 0.3931818181818182,
+   "n": 440
+  },
+  "qwen3b_int8": {
+   "f1": 0.7009475008658237,
+   "em": 0.47045454545454546,
+   "n": 440
+  },
+  "qwen3b_nf4": {
+   "f1": 0.47998684984086476,
+   "em": 0.21136363636363636,
+   "n": 440
+  },
+  "qwen7b_nf4": {
+   "f1": 0.5489316220944646,
+   "em": 0.25681818181818183,
+   "n": 440
+  }
+ },
+ "words_en": {
+  "gemma1b_bf16": 3.840909090909091,
+  "gemma1b_int8": 3.8295454545454546,
+  "gemma1b_nf4": 4.8977272727272725,
+  "qwen1.5b_bf16": 10.49090909090909,
+  "qwen1.5b_int8": 10.170454545454545,
+  "qwen1.5b_nf4": 9.129545454545454,
+  "qwen3b_bf16": 8.543181818181818,
+  "qwen3b_int8": 6.95,
+  "qwen3b_nf4": 12.368181818181819,
+  "qwen7b_nf4": 10.475
+ },
+ "agg": {
+  "gemma1b_int8": {
+   "local": 0.003750000000000001,
+   "high": -0.0025,
+   "gap": 0.006250000000000002,
+   "ci": [
+    -0.009000000000000001,
+    0.02125
+   ],
+   "p": 0.4256
+  },
+  "gemma1b_nf4": {
+   "local": -0.030500000000000006,
+   "high": 0.0125,
+   "gap": -0.04300000000000001,
+   "ci": [
+    -0.0675,
+    -0.01975
+   ],
+   "p": 0.0004
+  },
+  "qwen1.5b_int8": {
+   "local": 0.0005000000000000001,
+   "high": -0.00125,
+   "gap": 0.0017499999999999987,
+   "ci": [
+    -0.00775,
+    0.011
+   ],
+   "p": 0.7272
+  },
+  "qwen1.5b_nf4": {
+   "local": -0.060500000000000005,
+   "high": -0.0425,
+   "gap": -0.018,
+   "ci": [
+    -0.04675,
+    0.012
+   ],
+   "p": 0.2252
+  },
+  "qwen3b_int8": {
+   "local": 0.0032500000000000016,
+   "high": 0.0125,
+   "gap": -0.009250000000000001,
+   "ci": [
+    -0.03250625,
+    0.014006249999999913
+   ],
+   "p": 0.4424
+  },
+  "qwen3b_nf4": {
+   "local": 0.065,
+   "high": -0.005,
+   "gap": 0.07,
+   "ci": [
+    0.03975,
+    0.09949999999999999
+   ],
+   "p": 0.0
+  }
+ },
+ "tests": [
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "indonesian",
+   "diff": -0.0075,
+   "n01": 7,
+   "n10": 4,
+   "p": 0.548828125,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "english",
+   "diff": 0.0025,
+   "n01": 4,
+   "n10": 5,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "javanese",
+   "diff": -0.015,
+   "n01": 14,
+   "n10": 8,
+   "p": 0.28627872467041016,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "sundanese",
+   "diff": -0.015,
+   "n01": 21,
+   "n10": 15,
+   "p": 0.4050322461407632,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "balinese",
+   "diff": 0.01,
+   "n01": 16,
+   "n10": 20,
+   "p": 0.617719317029696,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "minangkabau",
+   "diff": 0.01,
+   "n01": 12,
+   "n10": 16,
+   "p": 0.5715881884098053,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "banjarese",
+   "diff": 0.0175,
+   "n01": 8,
+   "n10": 15,
+   "p": 0.21003961563110352,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "madurese",
+   "diff": -0.0075,
+   "n01": 24,
+   "n10": 21,
+   "p": 0.765991824244793,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "buginese",
+   "diff": 0.0075,
+   "n01": 21,
+   "n10": 24,
+   "p": 0.765991824244793,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "acehnese",
+   "diff": 0.005,
+   "n01": 20,
+   "n10": 22,
+   "p": 0.8776143287523154,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "ngaju",
+   "diff": 0.015,
+   "n01": 15,
+   "n10": 21,
+   "p": 0.4050322461407632,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "lang": "toba_batak",
+   "diff": 0.01,
+   "n01": 14,
+   "n10": 18,
+   "p": 0.5966148958541453,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "indonesian",
+   "diff": 0.0,
+   "n01": 18,
+   "n10": 18,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "english",
+   "diff": 0.025,
+   "n01": 6,
+   "n10": 16,
+   "p": 0.052478790283203125,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "javanese",
+   "diff": -0.075,
+   "n01": 48,
+   "n10": 18,
+   "p": 0.00028711844966164033,
+   "p_holm": 0.018949817677668263
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "sundanese",
+   "diff": -0.045,
+   "n01": 49,
+   "n10": 31,
+   "p": 0.056664426345121144,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "balinese",
+   "diff": -0.055,
+   "n01": 60,
+   "n10": 38,
+   "p": 0.03336002889694201,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "minangkabau",
+   "diff": -0.005,
+   "n01": 29,
+   "n10": 27,
+   "p": 0.8938530948350216,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "banjarese",
+   "diff": -0.0375,
+   "n01": 50,
+   "n10": 35,
+   "p": 0.12839640292640084,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "madurese",
+   "diff": -0.0775,
+   "n01": 56,
+   "n10": 25,
+   "p": 0.000752126064634077,
+   "p_holm": 0.04813606813658093
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "buginese",
+   "diff": 0.0225,
+   "n01": 38,
+   "n10": 47,
+   "p": 0.3856694201192796,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "acehnese",
+   "diff": -0.02,
+   "n01": 49,
+   "n10": 41,
+   "p": 0.46079247271897156,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "ngaju",
+   "diff": -0.01,
+   "n01": 33,
+   "n10": 29,
+   "p": 0.7035366713552733,
+   "p_holm": 1.0
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "lang": "toba_batak",
+   "diff": -0.0025,
+   "n01": 36,
+   "n10": 35,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "indonesian",
+   "diff": -0.0025,
+   "n01": 2,
+   "n10": 1,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "english",
+   "diff": 0.0,
+   "n01": 2,
+   "n10": 2,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "javanese",
+   "diff": 0.0075,
+   "n01": 3,
+   "n10": 6,
+   "p": 0.5078125,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "sundanese",
+   "diff": -0.015,
+   "n01": 10,
+   "n10": 4,
+   "p": 0.1795654296875,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "balinese",
+   "diff": 0.0,
+   "n01": 7,
+   "n10": 7,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "minangkabau",
+   "diff": -0.0075,
+   "n01": 7,
+   "n10": 4,
+   "p": 0.548828125,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "banjarese",
+   "diff": 0.01,
+   "n01": 6,
+   "n10": 10,
+   "p": 0.454498291015625,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "madurese",
+   "diff": -0.005,
+   "n01": 4,
+   "n10": 2,
+   "p": 0.6875,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "buginese",
+   "diff": -0.0125,
+   "n01": 14,
+   "n10": 9,
+   "p": 0.4048728942871094,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "acehnese",
+   "diff": 0.0125,
+   "n01": 4,
+   "n10": 9,
+   "p": 0.266845703125,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "ngaju",
+   "diff": 0.0075,
+   "n01": 4,
+   "n10": 7,
+   "p": 0.548828125,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "lang": "toba_batak",
+   "diff": 0.0075,
+   "n01": 8,
+   "n10": 11,
+   "p": 0.6476058959960938,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "indonesian",
+   "diff": -0.0425,
+   "n01": 25,
+   "n10": 8,
+   "p": 0.004551384132355452,
+   "p_holm": 0.2730830479413271
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "english",
+   "diff": -0.0425,
+   "n01": 27,
+   "n10": 10,
+   "p": 0.007632078602910042,
+   "p_holm": 0.4350284803658724
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "javanese",
+   "diff": -0.08,
+   "n01": 46,
+   "n10": 14,
+   "p": 4.223704562267977e-05,
+   "p_holm": 0.002956593193587584
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "sundanese",
+   "diff": -0.0525,
+   "n01": 47,
+   "n10": 26,
+   "p": 0.01861775143319464,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "balinese",
+   "diff": -0.1,
+   "n01": 62,
+   "n10": 22,
+   "p": 1.4655953475888016e-05,
+   "p_holm": 0.0010405726967880492
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "minangkabau",
+   "diff": -0.015,
+   "n01": 29,
+   "n10": 23,
+   "p": 0.48845566937989204,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "banjarese",
+   "diff": -0.08,
+   "n01": 58,
+   "n10": 26,
+   "p": 0.0006279472715818216,
+   "p_holm": 0.040816572652818406
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "madurese",
+   "diff": -0.0825,
+   "n01": 54,
+   "n10": 21,
+   "p": 0.00017630923003028777,
+   "p_holm": 0.011989027642059568
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "buginese",
+   "diff": -0.06,
+   "n01": 73,
+   "n10": 49,
+   "p": 0.0368774694497364,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "acehnese",
+   "diff": -0.0825,
+   "n01": 56,
+   "n10": 23,
+   "p": 0.000263636776465269,
+   "p_holm": 0.017663664023173025
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "ngaju",
+   "diff": -0.025,
+   "n01": 48,
+   "n10": 38,
+   "p": 0.3318343545999156,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "lang": "toba_batak",
+   "diff": -0.0275,
+   "n01": 56,
+   "n10": 45,
+   "p": 0.31972732070026544,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "indonesian",
+   "diff": 0.0175,
+   "n01": 11,
+   "n10": 18,
+   "p": 0.26493089646101,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "english",
+   "diff": 0.0075,
+   "n01": 9,
+   "n10": 12,
+   "p": 0.6636238098144531,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "javanese",
+   "diff": 0.015,
+   "n01": 28,
+   "n10": 34,
+   "p": 0.52577336017565,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "sundanese",
+   "diff": -0.05,
+   "n01": 32,
+   "n10": 12,
+   "p": 0.003657766827927844,
+   "p_holm": 0.2231237765035985
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "balinese",
+   "diff": 0.0025,
+   "n01": 31,
+   "n10": 32,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "minangkabau",
+   "diff": -0.005,
+   "n01": 33,
+   "n10": 31,
+   "p": 0.9006532462520334,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "banjarese",
+   "diff": -0.0175,
+   "n01": 28,
+   "n10": 21,
+   "p": 0.3916029105474905,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "madurese",
+   "diff": 0.0025,
+   "n01": 33,
+   "n10": 34,
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "buginese",
+   "diff": 0.0375,
+   "n01": 35,
+   "n10": 50,
+   "p": 0.12839640292640084,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "acehnese",
+   "diff": 0.0125,
+   "n01": 34,
+   "n10": 39,
+   "p": 0.6399729317539425,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "ngaju",
+   "diff": 0.005,
+   "n01": 28,
+   "n10": 30,
+   "p": 0.8956832138895906,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "lang": "toba_batak",
+   "diff": 0.03,
+   "n01": 19,
+   "n10": 31,
+   "p": 0.11892045255943628,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "indonesian",
+   "diff": 0.025,
+   "n01": 17,
+   "n10": 27,
+   "p": 0.17417114727072658,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "english",
+   "diff": -0.035,
+   "n01": 29,
+   "n10": 15,
+   "p": 0.048766765904474596,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "javanese",
+   "diff": -0.015,
+   "n01": 48,
+   "n10": 42,
+   "p": 0.5984117182335185,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "sundanese",
+   "diff": 0.0075,
+   "n01": 51,
+   "n10": 54,
+   "p": 0.8453703188825519,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "balinese",
+   "diff": 0.0675,
+   "n01": 46,
+   "n10": 73,
+   "p": 0.01678632911847825,
+   "p_holm": 0.9400344306347821
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "minangkabau",
+   "diff": 0.0675,
+   "n01": 33,
+   "n10": 60,
+   "p": 0.006695018134217244,
+   "p_holm": 0.39500606991881737
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "banjarese",
+   "diff": 0.0775,
+   "n01": 33,
+   "n10": 64,
+   "p": 0.002151553087925026,
+   "p_holm": 0.13554784453927662
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "madurese",
+   "diff": 0.105,
+   "n01": 37,
+   "n10": 79,
+   "p": 0.00012034422931947831,
+   "p_holm": 0.008303751823044003
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "buginese",
+   "diff": 0.1275,
+   "n01": 41,
+   "n10": 92,
+   "p": 1.1515889454893252e-05,
+   "p_holm": 0.0008291440407523141
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "acehnese",
+   "diff": 0.06,
+   "n01": 42,
+   "n10": 66,
+   "p": 0.02642352027714789,
+   "p_holm": 1.0
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "ngaju",
+   "diff": 0.0775,
+   "n01": 36,
+   "n10": 67,
+   "p": 0.0029291945870261924,
+   "p_holm": 0.18161006439562394
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "lang": "toba_batak",
+   "diff": 0.075,
+   "n01": 44,
+   "n10": 74,
+   "p": 0.007330019969069091,
+   "p_holm": 0.4251411582060073
+  }
+ ],
+ "ty_tests": [
+  {
+   "model": "gemma1b",
+   "prec": "int8",
+   "diff": -0.0019764382632056115,
+   "ci": [
+    -0.021449805781293914,
+    0.01840633403879389
+   ],
+   "p": 0.8696
+  },
+  {
+   "model": "gemma1b",
+   "prec": "nf4",
+   "diff": -0.029843607092331418,
+   "ci": [
+    -0.06105490213835341,
+    0.0029197393886140582
+   ],
+   "p": 0.0736
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "int8",
+   "diff": 0.007881642081774715,
+   "ci": [
+    -0.005642707193630287,
+    0.021454147792507004
+   ],
+   "p": 0.2504
+  },
+  {
+   "model": "qwen1.5b",
+   "prec": "nf4",
+   "diff": 0.04959270607249836,
+   "ci": [
+    0.024738267367111468,
+    0.07463698351779567
+   ],
+   "p": 0.0002
+  },
+  {
+   "model": "qwen3b",
+   "prec": "int8",
+   "diff": 0.06607120345708446,
+   "ci": [
+    0.04479214825474084,
+    0.08883334388011623
+   ],
+   "p": 0.0002
+  },
+  {
+   "model": "qwen3b",
+   "prec": "nf4",
+   "diff": -0.1548894475678745,
+   "ci": [
+    -0.18806896743266618,
+    -0.12079239351766166
+   ],
+   "p": 0.0002
+  }
+ ],
+ "majority": 0.3825,
+ "flip": {
+  "gemma1b_int8": {
+   "rows": [
+    {
+     "lang": "indonesian",
+     "flip": 0.0375,
+     "tvd": 0.0075,
+     "acc_bf16": 0.7825
+    },
+    {
+     "lang": "english",
+     "flip": 0.035,
+     "tvd": 0.01,
+     "acc_bf16": 0.775
+    },
+    {
+     "lang": "javanese",
+     "flip": 0.0675,
+     "tvd": 0.025,
+     "acc_bf16": 0.685
+    },
+    {
+     "lang": "sundanese",
+     "flip": 0.11,
+     "tvd": 0.0525,
+     "acc_bf16": 0.5975
+    },
+    {
+     "lang": "balinese",
+     "flip": 0.1325,
+     "tvd": 0.055,
+     "acc_bf16": 0.52
+    },
+    {
+     "lang": "minangkabau",
+     "flip": 0.1325,
+     "tvd": 0.0525,
+     "acc_bf16": 0.495
+    },
+    {
+     "lang": "banjarese",
+     "flip": 0.0925,
+     "tvd": 0.0425,
+     "acc_bf16": 0.535
+    },
+    {
+     "lang": "madurese",
+     "flip": 0.15,
+     "tvd": 0.045,
+     "acc_bf16": 0.5125
+    },
+    {
+     "lang": "buginese",
+     "flip": 0.165,
+     "tvd": 0.0525,
+     "acc_bf16": 0.3575
+    },
+    {
+     "lang": "acehnese",
+     "flip": 0.14,
+     "tvd": 0.06,
+     "acc_bf16": 0.42
+    },
+    {
+     "lang": "ngaju",
+     "flip": 0.14,
+     "tvd": 0.055,
+     "acc_bf16": 0.4125
+    },
+    {
+     "lang": "toba_batak",
+     "flip": 0.1275,
+     "tvd": 0.055,
+     "acc_bf16": 0.3925
+    }
+   ],
+   "rho": -0.8315840663996671,
+   "p": 0.0007983671028551988
+  },
+  "gemma1b_nf4": {
+   "rows": [
+    {
+     "lang": "indonesian",
+     "flip": 0.105,
+     "tvd": 0.06,
+     "acc_bf16": 0.7825
+    },
+    {
+     "lang": "english",
+     "flip": 0.0625,
+     "tvd": 0.0425,
+     "acc_bf16": 0.775
+    },
+    {
+     "lang": "javanese",
+     "flip": 0.21,
+     "tvd": 0.09,
+     "acc_bf16": 0.685
+    },
+    {
+     "lang": "sundanese",
+     "flip": 0.2575,
+     "tvd": 0.0925,
+     "acc_bf16": 0.5975
+    },
+    {
+     "lang": "balinese",
+     "flip": 0.3275,
+     "tvd": 0.14,
+     "acc_bf16": 0.52
+    },
+    {
+     "lang": "minangkabau",
+     "flip": 0.2175,
+     "tvd": 0.04,
+     "acc_bf16": 0.495
+    },
+    {
+     "lang": "banjarese",
+     "flip": 0.295,
+     "tvd": 0.11,
+     "acc_bf16": 0.535
+    },
+    {
+     "lang": "madurese",
+     "flip": 0.3125,
+     "tvd": 0.0975,
+     "acc_bf16": 0.5125
+    },
+    {
+     "lang": "buginese",
+     "flip": 0.2925,
+     "tvd": 0.075,
+     "acc_bf16": 0.3575
+    },
+    {
+     "lang": "acehnese",
+     "flip": 0.31,
+     "tvd": 0.0675,
+     "acc_bf16": 0.42
+    },
+    {
+     "lang": "ngaju",
+     "flip": 0.265,
+     "tvd": 0.08,
+     "acc_bf16": 0.4125
+    },
+    {
+     "lang": "toba_batak",
+     "flip": 0.275,
+     "tvd": 0.1125,
+     "acc_bf16": 0.3925
+    }
+   ],
+   "rho": -0.5244755244755246,
+   "p": 0.08001937592027474
+  },
+  "qwen1.5b_int8": {
+   "rows": [
+    {
+     "lang": "indonesian",
+     "flip": 0.01,
+     "tvd": 0.005,
+     "acc_bf16": 0.745
+    },
+    {
+     "lang": "english",
+     "flip": 0.0125,
+     "tvd": 0.0025,
+     "acc_bf16": 0.77
+    },
+    {
+     "lang": "javanese",
+     "flip": 0.035,
+     "tvd": 0.0125,
+     "acc_bf16": 0.6675
+    },
+    {
+     "lang": "sundanese",
+     "flip": 0.0575,
+     "tvd": 0.0125,
+     "acc_bf16": 0.6125
+    },
+    {
+     "lang": "balinese",
+     "flip": 0.0525,
+     "tvd": 0.0225,
+     "acc_bf16": 0.6125
+    },
+    {
+     "lang": "minangkabau",
+     "flip": 0.0475,
+     "tvd": 0.015,
+     "acc_bf16": 0.6375
+    },
+    {
+     "lang": "banjarese",
+     "flip": 0.0525,
+     "tvd": 0.02,
+     "acc_bf16": 0.66
+    },
+    {
+     "lang": "madurese",
+     "flip": 0.02,
+     "tvd": 0.005,
+     "acc_bf16": 0.6425
+    },
+    {
+     "lang": "buginese",
+     "flip": 0.07,
+     "tvd": 0.0375,
+     "acc_bf16": 0.5075
+    },
+    {
+     "lang": "acehnese",
+     "flip": 0.04,
+     "tvd": 0.01,
+     "acc_bf16": 0.5875
+    },
+    {
+     "lang": "ngaju",
+     "flip": 0.045,
+     "tvd": 0.015,
+     "acc_bf16": 0.5925
+    },
+    {
+     "lang": "toba_batak",
+     "flip": 0.0525,
+     "tvd": 0.0075,
+     "acc_bf16": 0.48
+    }
+   ],
+   "rho": -0.6772581571470162,
+   "p": 0.015540868818777556
+  },
+  "qwen1.5b_nf4": {
+   "rows": [
+    {
+     "lang": "indonesian",
+     "flip": 0.1,
+     "tvd": 0.0725,
+     "acc_bf16": 0.745
+    },
+    {
+     "lang": "english",
+     "flip": 0.1,
+     "tvd": 0.0625,
+     "acc_bf16": 0.77
+    },
+    {
+     "lang": "javanese",
+     "flip": 0.22,
+     "tvd": 0.1825,
+     "acc_bf16": 0.6675
+    },
+    {
+     "lang": "sundanese",
+     "flip": 0.2625,
+     "tvd": 0.24,
+     "acc_bf16": 0.6125
+    },
+    {
+     "lang": "balinese",
+     "flip": 0.2825,
+     "tvd": 0.24,
+     "acc_bf16": 0.6125
+    },
+    {
+     "lang": "minangkabau",
+     "flip": 0.205,
+     "tvd": 0.1625,
+     "acc_bf16": 0.6375
+    },
+    {
+     "lang": "banjarese",
+     "flip": 0.2725,
+     "tvd": 0.2175,
+     "acc_bf16": 0.66
+    },
+    {
+     "lang": "madurese",
+     "flip": 0.26,
+     "tvd": 0.245,
+     "acc_bf16": 0.6425
+    },
+    {
+     "lang": "buginese",
+     "flip": 0.4125,
+     "tvd": 0.365,
+     "acc_bf16": 0.5075
+    },
+    {
+     "lang": "acehnese",
+     "flip": 0.255,
+     "tvd": 0.2075,
+     "acc_bf16": 0.5875
+    },
+    {
+     "lang": "ngaju",
+     "flip": 0.3025,
+     "tvd": 0.26,
+     "acc_bf16": 0.5925
+    },
+    {
+     "lang": "toba_batak",
+     "flip": 0.315,
+     "tvd": 0.2525,
+     "acc_bf16": 0.48
+    }
+   ],
+   "rho": -0.7964912280701755,
+   "p": 0.0019314603111692315
+  },
+  "qwen3b_int8": {
+   "rows": [
+    {
+     "lang": "indonesian",
+     "flip": 0.0775,
+     "tvd": 0.055,
+     "acc_bf16": 0.8
+    },
+    {
+     "lang": "english",
+     "flip": 0.0575,
+     "tvd": 0.0575,
+     "acc_bf16": 0.855
+    },
+    {
+     "lang": "javanese",
+     "flip": 0.185,
+     "tvd": 0.115,
+     "acc_bf16": 0.695
+    },
+    {
+     "lang": "sundanese",
+     "flip": 0.18,
+     "tvd": 0.115,
+     "acc_bf16": 0.64
+    },
+    {
+     "lang": "balinese",
+     "flip": 0.2175,
+     "tvd": 0.1725,
+     "acc_bf16": 0.4775
+    },
+    {
+     "lang": "minangkabau",
+     "flip": 0.215,
+     "tvd": 0.145,
+     "acc_bf16": 0.625
+    },
+    {
+     "lang": "banjarese",
+     "flip": 0.17,
+     "tvd": 0.095,
+     "acc_bf16": 0.5525
+    },
+    {
+     "lang": "madurese",
+     "flip": 0.27,
+     "tvd": 0.2125,
+     "acc_bf16": 0.4975
+    },
+    {
+     "lang": "buginese",
+     "flip": 0.325,
+     "tvd": 0.285,
+     "acc_bf16": 0.3375
+    },
+    {
+     "lang": "acehnese",
+     "flip": 0.26,
+     "tvd": 0.2225,
+     "acc_bf16": 0.47
+    },
+    {
+     "lang": "ngaju",
+     "flip": 0.235,
+     "tvd": 0.205,
+     "acc_bf16": 0.405
+    },
+    {
+     "lang": "toba_batak",
+     "flip": 0.245,
+     "tvd": 0.2,
+     "acc_bf16": 0.355
+    }
+   ],
+   "rho": -0.8601398601398602,
+   "p": 0.000331668339126921
+  },
+  "qwen3b_nf4": {
+   "rows": [
+    {
+     "lang": "indonesian",
+     "flip": 0.1225,
+     "tvd": 0.1075,
+     "acc_bf16": 0.8
+    },
+    {
+     "lang": "english",
+     "flip": 0.1225,
+     "tvd": 0.115,
+     "acc_bf16": 0.855
+    },
+    {
+     "lang": "javanese",
+     "flip": 0.2525,
+     "tvd": 0.19,
+     "acc_bf16": 0.695
+    },
+    {
+     "lang": "sundanese",
+     "flip": 0.315,
+     "tvd": 0.25,
+     "acc_bf16": 0.64
+    },
+    {
+     "lang": "balinese",
+     "flip": 0.3525,
+     "tvd": 0.2625,
+     "acc_bf16": 0.4775
+    },
+    {
+     "lang": "minangkabau",
+     "flip": 0.26,
+     "tvd": 0.21,
+     "acc_bf16": 0.625
+    },
+    {
+     "lang": "banjarese",
+     "flip": 0.28,
+     "tvd": 0.2025,
+     "acc_bf16": 0.5525
+    },
+    {
+     "lang": "madurese",
+     "flip": 0.3575,
+     "tvd": 0.275,
+     "acc_bf16": 0.4975
+    },
+    {
+     "lang": "buginese",
+     "flip": 0.415,
+     "tvd": 0.2975,
+     "acc_bf16": 0.3375
+    },
+    {
+     "lang": "acehnese",
+     "flip": 0.3575,
+     "tvd": 0.2325,
+     "acc_bf16": 0.47
+    },
+    {
+     "lang": "ngaju",
+     "flip": 0.3375,
+     "tvd": 0.2575,
+     "acc_bf16": 0.405
+    },
+    {
+     "lang": "toba_batak",
+     "flip": 0.4175,
+     "tvd": 0.32,
+     "acc_bf16": 0.355
+    }
+   ],
+   "rho": -0.9157951110983675,
+   "p": 2.8906237352811366e-05
+  }
+ },
+ "flip_pooled_nf4": {
+  "rho": -0.7865327929099967,
+  "p": 1.2970259309890587e-08,
+  "n": 36
+ },
+ "flip_pooled_int8": {
+  "rho": -0.6503767320818337,
+  "p": 1.7569762829518144e-05,
+  "n": 36
+ }
+}

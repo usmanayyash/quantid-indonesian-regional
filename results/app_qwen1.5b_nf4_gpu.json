@@ -1,0 +1,153 @@
+{
+ "tag": "qwen1.5b_nf4_gpu",
+ "n": 20,
+ "median_latency_s": 10.74,
+ "p90_latency_s": 15.65,
+ "mean_tokens_per_s": 13.0425,
+ "total_sec": 183.0,
+ "energy_wh": 0.784,
+ "wh_per_answer": 0.0392,
+ "peak_vram_gb": 1.225,
+ "items": [
+  {
+   "kind": "tanya-jawab",
+   "sec": 4.79,
+   "new_tokens": 72,
+   "tokens_per_s": 15.03,
+   "answer": "Kolumnus bukanlah orang pertama yang menemukan benua Amerika. Seorang Viking dari Eropa Utara yang bernama Leif Erikson merupakan orang pertama yang menemukan benua tersebut pada abad ke-11 dan mendirikan koloni di L'Anse aux Meadows selama beberapa tahun."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 1.39,
+   "new_tokens": 20,
+   "tokens_per_s": 14.34,
+   "answer": "Donggala letaknya di Provinsi Sulawesi Tengah, Indonesia."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 2.28,
+   "new_tokens": 34,
+   "tokens_per_s": 14.94,
+   "answer": "Frederick Winslow Taylor dikenal sebagai Bapak Teknik Industri meskipun gagasan-gagasannya bukanlah ide asli."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 1.93,
+   "new_tokens": 23,
+   "tokens_per_s": 11.92,
+   "answer": "Penghulu Rasyid meninggal pada tanggal 15 Desember 1861."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 4.0,
+   "new_tokens": 46,
+   "tokens_per_s": 11.51,
+   "answer": "Samudra Pasifik memiliki luas sekitar 179,7 juta kilometer persegi (69,4 juta mil persegi), atau setengah dari permukaan bumi."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 7.5,
+   "new_tokens": 96,
+   "tokens_per_s": 12.8,
+   "answer": "Geisha adalah seniman-penghibur tradisional Jepang yang merupakan individu yang menari, menyanyi, dan memberikan hiburan kepada orang lain. Mereka juga sering makan dan minum di restoran atau tempat-tempat tertentu. Geisha telah menjadi populer di abad ke-18 dan ke-19, dan masih ada sampai saat ini, meskipun jumlah mereka tidak banyak."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 1.67,
+   "new_tokens": 19,
+   "tokens_per_s": 11.4,
+   "answer": "Bank BCA mengeluarkan kartu debit pada tahun 2000-an."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 1.9,
+   "new_tokens": 24,
+   "tokens_per_s": 12.64,
+   "answer": "Kantor pusat General Motors terletak di Renaissance Center di Detroit, Michigan, Amerika Serikat."
+  },
+  {
+   "kind": "soal",
+   "sec": 16.04,
+   "new_tokens": 200,
+   "tokens_per_s": 12.47,
+   "answer": "Sebagai asisten guru, saya akan memberikan jawaban dan alasan:\n\n1. A. Sumatra bagian utara\n\nAlasannya: Islam pertama kali masuk ke Indonesia melalui sejarah kolonial Belanda. Pada tahun 1697, Belanda menuduh orang-orang Muslim dari India (termasuk orang-orang Hindu) sebagai pelaku perampokan di Pulau Sumatera. Belanda kemudian mengusir mereka ke pulau-pulau di Sumatra, termasuk Sumatra bagian utar"
+  },
+  {
+   "kind": "soal",
+   "sec": 12.15,
+   "new_tokens": 152,
+   "tokens_per_s": 12.51,
+   "answer": "Alasannya adalah A. Orang dari luar. \n\nPenjelasan: Sifat tegas dan keras ini sering dianggap sebagai ciri buruk atau kurang sopan dalam komunikasi. Namun, orang-orang dari luar (misalnya, orang asing) biasanya memiliki sikap tegas dan keras karena mereka lebih sensitif terhadap perbedaan budaya dan norma sosial. Mereka mungkin merasa bahwa kebanyakan orang di Indonesia mengabaikan atau menyinggung"
+  },
+  {
+   "kind": "soal",
+   "sec": 14.87,
+   "new_tokens": 200,
+   "tokens_per_s": 13.45,
+   "answer": "E. Aceh tidak mudah ditaklukan dengan politik devide et impera sementara rakyat Maluku menggunakan taktik perang gerilya\n\nAlasan: Perlawanan Aceh melibatkan strategi seperti \"devide et impera\" (pecahan dan mengusir) yang mencampur elemen-elemen kekerasan dan ketidakpercayaan di antara warganya untuk menekan serangan dari luar. Sementara itu, perlawanan Maluku mungkin melibatkan strategi yang lebih"
+  },
+  {
+   "kind": "soal",
+   "sec": 11.94,
+   "new_tokens": 161,
+   "tokens_per_s": 13.49,
+   "answer": "Huruf jawaban: A. Belajar\n\nAlasan:\nSebagai seorang siswa, kewajibannya adalah untuk belajar. Belajar merupakan tujuan utama di sekolah, dimana kita belajar tentang ilmu pengetahuan, mengasah kemampuan, dan memperoleh wawasan baru. Nonton TV atau bermain tidak dapat menyelesaikan tantangan dan tugas yang diberikan oleh guru dan teman sekelas. Tidur juga bukanlah tujuan utama di sekolah, karena kead"
+  },
+  {
+   "kind": "soal",
+   "sec": 13.9,
+   "new_tokens": 190,
+   "tokens_per_s": 13.67,
+   "answer": "Dari percakapan tersebut, kita dapat melihat bahwa Rina meminta susu untuk menyampaikan pesan kepada Dinda tentang mengembalikan buku cerita. Selanjutnya, Susi menyetujui permintaan Rina dan memberikan dukungan. Oleh karena itu, jawaban yang tepat adalah:\n\nC. Rina dan Susi\n\nAlasannya: \n1. Rina bertanya apakah Dinda ada.\n2. Rina mencabarik Dinda untuk membantu mengembalikan buku cerita.\n3. Susi set"
+  },
+  {
+   "kind": "soal",
+   "sec": 10.74,
+   "new_tokens": 150,
+   "tokens_per_s": 13.96,
+   "answer": "Huruf jawaban: B. tanggui\n\nAlasan: Tangguis merupakan jenis topi yang biasanya digunakan oleh pekerjaan di sawah atau tanaman karena memiliki desain yang dapat menutupi seluruh kepala serta mengisolasi mata dari cahaya matahari. Hal ini sangat berguna bagi mereka yang bekerja di bawah tanah panas seperti sawah, karena bisa mencegah mata terkena matahari langsung dan juga membantu mengurangi kepani"
+  },
+  {
+   "kind": "soal",
+   "sec": 15.65,
+   "new_tokens": 200,
+   "tokens_per_s": 12.78,
+   "answer": "**Alasan:** \nPilihan B \"Sendang Biru\" adalah jawaban yang tepat karena konteks pernyataan tersebut menggambarkan lokasi atau nama tempat yang diinginkan oleh para pengunjung untuk melakukan aktivitas tertentu (menyalak). Jika kita melihat pilihan-pilihan lain:\nA. \"Menyang\" - Ini terlalu singkat dan tidak memuat makna.\nC. \"Para pengunjung\" - Meskipun mereka adalah siapa-siapa yang ingin melakukan h"
+  },
+  {
+   "kind": "soal",
+   "sec": 10.72,
+   "new_tokens": 134,
+   "tokens_per_s": 12.5,
+   "answer": "Alasannya adalah C. Banggakan. Menyebutkan nama orang lain secara baik-baik atau bangga akan keberhasilan mereka dapat memberikan efek positif pada lingkungan sosial dan budaya. Namun, jika perbuatan tersebut merujuk kepada diri sendiri, maka opsi A (Tinggalkan) lebih tepat karena menunjukkan sikap negatif terhadap diri sendiri. Namun, jika perbuatan tersebut mengacu pada kebijaksanaan atau ketera"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 12.27,
+   "new_tokens": 156,
+   "tokens_per_s": 12.72,
+   "answer": "Berikut adalah 3-5 poin penting tentang Kimigayo:\n\n1. Kimigayo adalah lagu kebangsaan Jepang yang disebut \"Semoga kekuasaan Yang Mulia berlanjut selamanya\".\n\n2. Lagu ini memiliki panjang hanya 11 baris dan terdiri dari 32 karakter huruf.\n\n3. Melodinya ditulis pada akhir zaman Meiji dan digunakan pada tahun 1880.\n\n4. Melodi yang ada saat ini merupakan perubahan dari melodi sebelumnya yang lebih tid"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 9.76,
+   "new_tokens": 130,
+   "tokens_per_s": 13.33,
+   "answer": "1. Konsili-konsili Kartago merupakan proses perundingan antara Gereja Kristen dan negara-negara lain.\n2. Rapat-rapat tersebut terjadi pada masa-masa tertentu di Afrika.\n3. Rapat-rapat ini mencakup beberapa pertemuan utama seperti Konsili Kartago I, II, dan III.\n4. Masa-masa ini menandai awal perkembangan sistem perseorangan di Eropa.\n5. Rapat-rapat ini membantu mengatur hubungan antara Gereja dan "
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 15.85,
+   "new_tokens": 200,
+   "tokens_per_s": 12.62,
+   "answer": "Berikut adalah 3-5 poin penting dari materi tersebut:\n\n1. Bendung Katulampa merupakan bangunan yang dibangun pada tahun 1911.\n   \n2. Tujuan utama bentuk ini adalah sebagai peringatan dini tentang air yang akan mengalir ke Jakarta dan juga sebagai sarana irigasi untuk tanah seluas 5.000 hektare.\n\n3. Saat musim hujan, bendung dapat menerima air dengan debit mencapai 630 ribu liter per detik dan ting"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 13.63,
+   "new_tokens": 174,
+   "tokens_per_s": 12.77,
+   "answer": "1. Kaktus adalah nama yang diberikan kepada beberapa spesies tumbuhan berbunga.\n2. Keluarga kaktus (Cactaceae) meliputi lebih dari 100 jenis tanaman berbunga.\n3. Kaktus memiliki bentuk dan struktur unik yang memungkinkan mereka untuk bertahan hidup di lingkungan yang terancang.\n4. Beberapa keunikan kaktus termasuk pencahayaan yang efisien, sistem pernapasan yang dirancang untuk mengambil air dari "
+  }
+ ]
+}

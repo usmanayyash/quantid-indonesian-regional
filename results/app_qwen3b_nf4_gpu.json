@@ -1,0 +1,153 @@
+{
+ "tag": "qwen3b_nf4_gpu",
+ "n": 20,
+ "median_latency_s": 8.3,
+ "p90_latency_s": 14.47,
+ "mean_tokens_per_s": 11.7665,
+ "total_sec": 173.4,
+ "energy_wh": 0.937,
+ "wh_per_answer": 0.0469,
+ "peak_vram_gb": 2.164,
+ "items": [
+  {
+   "kind": "tanya-jawab",
+   "sec": 8.3,
+   "new_tokens": 78,
+   "tokens_per_s": 9.39,
+   "answer": "Siapakah yang menemukan Benua Amerika belum sepenuhnya jelas. Beberapa orang percaya bahwa penemu Benua Amerika pertama adalah penjajah Eropa, Columbus, namun ada juga fakta bahwa Viking dari Eropa Barat mungkin telah mencapainya lebih dulu pada abad ke 11."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 2.81,
+   "new_tokens": 25,
+   "tokens_per_s": 8.89,
+   "answer": "Donggala terletak di Kabupaten Donggala, yang merupakan ibu kota kabupaten tersebut."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 3.69,
+   "new_tokens": 34,
+   "tokens_per_s": 9.21,
+   "answer": "Frederick Winslow Taylor ditetapkan sebagai Bapak Teknik Industri, meskipun gagasannya sendiri bukanlah asli."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 2.48,
+   "new_tokens": 22,
+   "tokens_per_s": 8.88,
+   "answer": "Penghulu Rasyid meninggal pada 15 Desember 1861."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 2.68,
+   "new_tokens": 23,
+   "tokens_per_s": 8.59,
+   "answer": "Samudera Pasifik memiliki luas sebesar 179,7 juta km²."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 1.88,
+   "new_tokens": 17,
+   "tokens_per_s": 9.04,
+   "answer": "Geisha adalah seniman-penghibur tradisional Jepang."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 7.83,
+   "new_tokens": 84,
+   "tokens_per_s": 10.72,
+   "answer": "Bank BCA tidak disebutkan memiliki kartu debit khusus di teks tersebut. Teks hanya menyebutkan beberapa layanan perbankan elektronik seperti Debit BCA, Tunai BCA, dan lainnya, tapi tidak memberikan informasi tentang waktu peluncurannya. Jadi, jawabannya adalah tidak dapat ditentukan berdasarkan teks tersebut."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 1.94,
+   "new_tokens": 21,
+   "tokens_per_s": 10.81,
+   "answer": "Kantor pusat General Motors terletak di Detroit, Michigan, Amerika Serikat."
+  },
+  {
+   "kind": "soal",
+   "sec": 10.3,
+   "new_tokens": 111,
+   "tokens_per_s": 10.77,
+   "answer": "Huruf jawabannya adalah C. Aceh.\n\nAlasannya: Aceh merupakan salah satu wilayah di Indonesia yang paling dekat dengan Mesir, tempat asalnya Nabi Muhammad SAW. Islam mulai diterima di Aceh sekitar abad ke-13 hingga ke-14 Masehi, sehingga Aceh sering disebut sebagai \"ibu kota Islam di Indonesia\". Ini membuat Aceh menjadi daerah pertama di Indonesia yang menerima Islam secara luas."
+  },
+  {
+   "kind": "soal",
+   "sec": 10.03,
+   "new_tokens": 110,
+   "tokens_per_s": 10.96,
+   "answer": "Huruf jawabannya adalah A. Orang dari luar.\n\nAlasannya adalah:\nSifat \"tegas dan keras\" seringkali diacuhkan atau dimanfaatml oleh orang-orang dari luar suatu budaya atau masyarakat. Mereka mungkin merasa bahwa sifat-sifat seperti itu dapat menimbulkan kesulitan dalam komunikasi atau hubungan sosial. Oleh karena itu, jawaban A menjadi pilihan yang paling tepat."
+  },
+  {
+   "kind": "soal",
+   "sec": 19.74,
+   "new_tokens": 200,
+   "tokens_per_s": 10.13,
+   "answer": "Jawaban yang paling tepat adalah: **D. Semangat mental perlawanan rakyat Aceh yang tak mudah dikalahkan sementara rakyat Maluku meyuarakan sampai titik darah penghabisan**\n\n**Alasannya:**\nPerlawanan rakyat Aceh memang terkenal dengan semangat mental yang sangat kuat dan tidak mudah dikalahkan. Aceh selalu dapat menangani serangan dari pihak penjajah dengan cara yang berbeda tetapi tetap efektif. S"
+  },
+  {
+   "kind": "soal",
+   "sec": 14.47,
+   "new_tokens": 142,
+   "tokens_per_s": 9.81,
+   "answer": "Huruf yang tepat untuk menjawab pertanyaan ini adalah A. belajar.\n\nAlasannya:\nSebagai seorang siswa, kewajiban utama adalah belajar. Kewajiban ini mencakup pelaksanaan tugas sekolah, memahami materi yang diberikan oleh guru, serta menghargai waktu belajar. Pilihan lain (nonton TV, bermain, tiduran) tidak sesuai dengan kewajiban seorang siswa. Belajar merupakan tanggung jawab yang harus dijalankan "
+  },
+  {
+   "kind": "soal",
+   "sec": 12.53,
+   "new_tokens": 126,
+   "tokens_per_s": 10.06,
+   "answer": "Huruf jawaban yang tepat adalah C. Rina dan Susi.\n\nAlasannya:\nDalam percakapan tersebut, Rina bertanya kepada Susi apakah Dinda ada. Kemudian, Susi menjawab dan memberitahu Rina bahwa Dinda sedang di rumah neneknya. Jadi, mereka berdua (Rina dan Susi) sedang berkomunikasi satu sama lain. Rina meminta Susi untuk mengirim pesan ke Dinda, yang menunjukkan bahwa mereka berdua terlibat dalam percakapan"
+  },
+  {
+   "kind": "soal",
+   "sec": 13.53,
+   "new_tokens": 131,
+   "tokens_per_s": 9.68,
+   "answer": "Huruf jawabannya adalah C. topi pet.\n\nAlasannya: Topi pet adalah jenis topi yang khas dan sering digunakan di Indonesia, terutama di daerah sawah. Topi ini memiliki bentuk yang lebih besar dan lebar dibandingkan topi lainnya, sehingga cocok untuk melindungi kepala dari paparan sinar matahari yang kuat di area sawah. Topi pet juga biasanya dilengkapi dengan penutup yang bisa diputar, sehingga dapat"
+  },
+  {
+   "kind": "soal",
+   "sec": 13.23,
+   "new_tokens": 128,
+   "tokens_per_s": 9.67,
+   "answer": "Jawaban yang benar adalah: B. Sendang Biru\n\nAlasannya:\nSoal ini sebenarnya mengacu pada informasi yang diberikan di awal pertanyaan. Dalam teks tersebut disebutkan bahwa para pengunjung ingin menggunakan kendaraan pribadi atau kendaraineumum untuk mencapai Sendang Biru. Ini menunjukkan bahwa \"Sendang Biru\" adalah destinasi yang dicari oleh pengunjung. Jadi, \"Sendang Biru\" adalah nama tempat yang t"
+  },
+  {
+   "kind": "soal",
+   "sec": 11.48,
+   "new_tokens": 116,
+   "tokens_per_s": 10.11,
+   "answer": "Huruf jawabannya adalah A. Tinggalkan.\n\nAlasannya, perbuatan buruk harus dihindari dan ditinggalkan. Jika kita mempertahankan atau bangga dengan perbuatan buruk, itu akan memperparah situasi dan tidak membantu mengatasi masalah. Sebaliknya, dengan meninggalkan perbuatan buruk, kita bisa mencari solusi yang lebih baik dan mendidik diri sendiri untuk tidak melakukan hal-hal yang sama di masa depan."
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 18.8,
+   "new_tokens": 187,
+   "tokens_per_s": 9.95,
+   "answer": "Berikut adalah ringkasan penting tentang Kimigayo:\n\n1. Kimigayo adalah lagu kebangsaan Jepang, diterjemahkan sebagai \"Semoga kekuasaan Yang Mulia berlanjut selamanya\".\n\n2. Ini adalah lagu kebangsaan Jepang yang paling pendek, hanya 11 bar dan terdiri dari 32 karakter huruf.\n\n3. Melodi modernnya dipilih pada tahun 1880, menggantikan versi sebelumnya yang tidak populer.\n\n4. Liriknya ditulis pada zam"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 8.28,
+   "new_tokens": 151,
+   "tokens_per_s": 18.24,
+   "answer": "Berikut adalah ringkasan penting tentang Konsili-Konsili Kartago:\n\n1. Konsili-Konsili Kartago adalah rapat sinode gereja yang diadakan di Kartago, Afrika, pada abad ke-3 hingga ke-5.\n2. Rapat-rapat penting di antaranya meliputi perdebatan tentang keabsahan Paulus sebagai penulis beberapa epistles dalam Injil, serta pemahaman tentang pengampunan dosa.\n3. Konsili-Konsili Kartago memainkan peran pent"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 6.33,
+   "new_tokens": 160,
+   "tokens_per_s": 25.28,
+   "answer": "Berikut adalah ringkasan penting dari materi tersebut:\n\n1. Bendung Katulampa terletak di Kelurahan Katulampa, Kota Bogor, Jawa Barat.\n2. Bangunan ini dibangun pada tahun 1911 sebagai peringatan dini tentang banjir ke Jakarta dan sebagai sarana irigasi.\n3. Bendung dapat mengalirkan air dengan debit tertinggi sebesar 630 ribu liter air per detik.\n4. Musim hujan, bendung bisa dilewati air dengan ting"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 3.02,
+   "new_tokens": 76,
+   "tokens_per_s": 25.14,
+   "answer": "Berikut adalah ringkasan penting tentang kaktus:\n\n1. Kaktus termasuk dalam kelompok tumbuhan berbunga.\n2. Kelompok ini termasuk dalam famili Cactaceae.\n3. Nama \"kaktus\" digunakan untuk mengidentifikasi tumbuhan-tumbuhan dari famili ini."
+  }
+ ]
+}

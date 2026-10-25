@@ -1,0 +1,8 @@
+transformers>=4.50
+accelerate
+bitsandbytes>=0.43
+nvidia-ml-py
+pandas
+matplotlib
+gradio
+datasets

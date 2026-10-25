@@ -1,0 +1,153 @@
+{
+ "tag": "qwen1.5b_fp32_cpu",
+ "n": 20,
+ "median_latency_s": 29.91,
+ "p90_latency_s": 54.69,
+ "mean_tokens_per_s": 3.2119999999999997,
+ "total_sec": 617.0,
+ "energy_wh": null,
+ "wh_per_answer": null,
+ "peak_vram_gb": null,
+ "items": [
+  {
+   "kind": "tanya-jawab",
+   "sec": 22.83,
+   "new_tokens": 65,
+   "tokens_per_s": 2.85,
+   "answer": "Kolonius bukanlah orang pertama yang menemukan benua Amerika. Ada beberapa orang Viking dari Eropa Utara yang telah berkunjung ke Amerika Utara pada abad ke-11 dan mendirikan koloni di L'Anse aux Meadows selama beberapa tahun saja."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 8.42,
+   "new_tokens": 20,
+   "tokens_per_s": 2.37,
+   "answer": "Donggala letaknya di Provinsi Sulawesi Tengah, Indonesia."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 9.78,
+   "new_tokens": 19,
+   "tokens_per_s": 1.94,
+   "answer": "Frederick Winslow Taylor dikenal sebagai Bapak Teknik Industri."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 11.11,
+   "new_tokens": 23,
+   "tokens_per_s": 2.07,
+   "answer": "Penghulu Rasyid meninggal pada tanggal 15 Desember 1861."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 9.65,
+   "new_tokens": 32,
+   "tokens_per_s": 3.32,
+   "answer": "Samudra Pasifik memiliki luas sekitar 179,7 juta km² (69,4 juta mi²)."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 18.6,
+   "new_tokens": 48,
+   "tokens_per_s": 2.58,
+   "answer": "Geisha adalah seniman-penghibur tradisional Jepang yang sangat populer pada abad ke-18 dan abad ke-19, namun jumlahnya semakin sedikit hingga saat ini."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 8.33,
+   "new_tokens": 19,
+   "tokens_per_s": 2.28,
+   "answer": "Bank BCA mengeluarkan kartu debit pada tahun 2000-an."
+  },
+  {
+   "kind": "tanya-jawab",
+   "sec": 9.23,
+   "new_tokens": 23,
+   "tokens_per_s": 2.49,
+   "answer": "Kantor pusat General Motors berada di Renaissance Center di Detroit, Michigan, Amerika Serikat."
+  },
+  {
+   "kind": "soal",
+   "sec": 76.61,
+   "new_tokens": 188,
+   "tokens_per_s": 2.45,
+   "answer": "Huruf jawaban yang benar adalah A. Sumatra bagian utara.\n\nAlasannya: Islam pertama kali masuk ke Indonesia melalui perjalanannya dari Timur Tengah menuju Asia Pasifik pada abad ke-8 Masehi. Dalam proses ini, sebagian besar orang Muslim yang datang dari Timur Tengah memulai pengaruh mereka di wilayah Selatan Indonesia, termasuk Sumatra bagian utara. Hal ini disebabkan oleh adanya kerjasama antara d"
+  },
+  {
+   "kind": "soal",
+   "sec": 53.32,
+   "new_tokens": 165,
+   "tokens_per_s": 3.09,
+   "answer": "Jawaban: A\n\nAlasan: Sifat tegas dan keras seringkali dianggap sebagai ciri buruk atau kasar. Namun, sebenarnya sifat tersebut bisa dikendalikan jika diterapkan secara tepat dan sesuai situasi. Misalnya, ketegasan dapat digunakan untuk mengambil keputusan atau menegakkan norma, tetapi harus dilakukan dengan cara yang sopan dan profesional. Jadi, orang dari luar (yang biasanya memiliki pandangan yan"
+  },
+  {
+   "kind": "soal",
+   "sec": 78.07,
+   "new_tokens": 200,
+   "tokens_per_s": 2.56,
+   "answer": "Jawaban: D\n\nAlasan:\n\nAceh dan Maluku mempunyai perbedaan besar dalam cara mereka menghadapi penjajahan. Aceh, sebagai Kesultanan, memiliki semangat mental yang kuat untuk melawan penjajah, sehingga mereka dapat bertahan meskipun dihadapkan pada tekanan yang sangat tinggi. Sementara itu, Maluku, yang merupakan beberapa pulau kecil yang terpisah, memiliki karakteristik kepemilikan individu atau kelo"
+  },
+  {
+   "kind": "soal",
+   "sec": 35.62,
+   "new_tokens": 119,
+   "tokens_per_s": 3.34,
+   "answer": "Huruf jawaban yang benar adalah A. belajar.\n\nAlasannya: Kewajiban sebagai seorang siswa adalah untuk belajar. Belajar merupakan tugas utama bagi siswa karena tujuan utamanya adalah memperoleh pengetahuan baru dan meningkatkan kemampuan diri. Nonton TV atau bermain tidak termasuk kewajiban formal seperti belajar. Sementara tiduran biasanya dilakukan setelah menghabiskan waktu belajar, bukan sebagai"
+  },
+  {
+   "kind": "soal",
+   "sec": 44.89,
+   "new_tokens": 121,
+   "tokens_per_s": 2.7,
+   "answer": "Jawaban: B\n\nAlasan: Dalam percakapan tersebut, kata-kata yang digunakan menunjukkan bahwa dialog terjadi antara dua orang, yaitu Rina dan Susi. Rina bertanya kepada Susi tentang adanya Dinda, dan setelah itu, Rina memberikan informasi kepada Susi tentang pengembalian buku cerita kepada Dinda. Hal ini menunjukkan hubungan antara Rina dan Susi sebagai teman atau keluarga, sehingga jawaban yang tepat"
+  },
+  {
+   "kind": "soal",
+   "sec": 29.91,
+   "new_tokens": 94,
+   "tokens_per_s": 3.14,
+   "answer": "Huruf jawaban yang benar adalah B. tanggui.\n\nAlasannya: Tangguinya biasanya memiliki struktur yang kuat dan dapat menyerap panas dari matahari, sehingga membantu melindungi penggunanya dari sinar matahari langsung saat bekerja di sawah atau tanaman. Selain itu, tangguinya juga lebih mudah dibawa dan dipakai daripada topi besar lainnya."
+  },
+  {
+   "kind": "soal",
+   "sec": 38.88,
+   "new_tokens": 96,
+   "tokens_per_s": 2.47,
+   "answer": "Jawaban: C\n\nAlasan: Dalam ayat tersebut, kata \"para\" digunakan sebagai prefix untuk menggambarkan sekelompok orang atau objek lainnya. Jadi, jika kita melihat kata-kata lain di ayat ini seperti \"kang\", \"kalebu\", dan \"tembung\", mereka mungkin juga memiliki prefix \"para\". Oleh karena itu, jawaban yang tepat adalah \"Para pengunjung\"."
+  },
+  {
+   "kind": "soal",
+   "sec": 54.69,
+   "new_tokens": 129,
+   "tokens_per_s": 2.36,
+   "answer": "Huruf jawaban yang benar adalah A. Tinggalkan.\n\nAlasannya: Perbuatan yang buruk sebaiknya kita tinggalkan karena hal ini dapat membantu kita menghindari dampak negatif dari perbuatan tersebut. Dengan memilih untuk tinggalkan perbuatan buruk, kita bisa fokus pada upaya-upaya positif lainnya yang lebih baik. Selain itu, menyingkirkan perbuatan buruk juga bisa menjadi tindakan moral dan etis, yang pe"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 41.89,
+   "new_tokens": 190,
+   "tokens_per_s": 4.54,
+   "answer": "Berikut adalah 3-5 poin penting tentang Kimigayo:\n\n1. Kimigayo adalah lagu kebangsaan Jepang yang diterjemahkan dalam bahasa Indonesia sebagai \"Semoga kekuasaan Yang Mulia berlanjut selamanya\".\n\n2. Lagu ini memiliki panjang singkat - hanya 11 bar dan terdiri dari 32 karakter huruf - yang membuatnya menjadi salah satu lagu kebangsaan terpendek di dunia.\n\n3. Kimigayo ditulis dalam metrum Jepang Waka"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 17.48,
+   "new_tokens": 104,
+   "tokens_per_s": 5.95,
+   "answer": "1. Konsili-konsili Kartago membentuk konsep umum tentang agama Kristen.\n2. Ratu Caracalla mengundang para pemimpin gereja untuk diskusi tentang perbedaan pendapat mereka.\n3. Dalam beberapa konsili, ada kesepakatan tentang penggunaan nama Kristus sebagai nama Tuhan.\n4. Ini merupakan awal dari proses pembentukan Konfederasi Gereja Romawi pada abad ke-7."
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 30.61,
+   "new_tokens": 176,
+   "tokens_per_s": 5.75,
+   "answer": "Berikut adalah 3-5 poin penting dari materi tersebut:\n\n1. Bendung Katulampa terletak di Kelurahan Katulampa, Kota Bogor, Jawa Barat.\n2. Bangunan ini dibangun pada tahun 1911 sebagai peringatan dini atas air yang mengalir ke Jakarta.\n3. Sarana ini juga digunakan untuk irigasi lahan sebesar 5.000 hektare.\n4. Dalam musim hujan, bendung dapat menyalurkan air dengan debit mencapai 630 ribu liter per de"
+  },
+  {
+   "kind": "ringkasan",
+   "sec": 17.04,
+   "new_tokens": 102,
+   "tokens_per_s": 5.99,
+   "answer": "Berikut adalah 3-5 poin penting tentang kaktus:\n\n1. Kaktus adalah tumbuhan berbunga dari keluarga Cactaceae.\n2. Mereka memiliki bentuk bulat atau berbentuk seperti bola.\n3. Tumbuh di daerah tropis dan subtropis.\n4. Bisa hidup tanpa air selama beberapa tahun.\n5. Digunakan sebagai hiasan rumah dan tempat pertemuan."
+  }
+ ]
+}
